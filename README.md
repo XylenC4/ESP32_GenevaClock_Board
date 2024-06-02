@@ -1,9 +1,6 @@
 # ESP32_GenevaClock_Board
 ESP32 S3 custom board for gzumwalt GenevaClock including Sound output.
 This project is not based on any files from gzumwalt, the Arduino Project is a complete re-write.
-
-# ESP32CAM QR-Code MusicBox
-This is an Kids-Toy which plays music by an QR-Code
 ![Image](Images/Clock_4.png)
 
 ## Used Libaries
